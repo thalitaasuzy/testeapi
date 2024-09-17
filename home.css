@@ -1,0 +1,19 @@
+#section-search {
+    background-color: #fafafa;
+    padding: 55px 20px;
+}
+
+input {
+    width: 85%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+input:focus {
+    border-color: #00948d; 
+    outline: none; 
+}
